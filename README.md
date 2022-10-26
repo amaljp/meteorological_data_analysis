@@ -1,2 +1,2 @@
 # meteorological_data_analysis
-Analysis of model and observational data. 
+Analysis of model and observational data using python. 
